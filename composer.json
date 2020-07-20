@@ -18,6 +18,7 @@
     ],
     "require": {
         "php": "^7.3",
+        "drewroberts/blog": "^1.0",
         "drewroberts/media": "^1.0",
         "silvanite/nova-field-cloudinary": "^1.3"
     },
