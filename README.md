@@ -6,7 +6,7 @@
 
 Laravel Package for my preferred implementation of Ecommerce
 
-This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
+This is where your description should go..
 
 ## Installation
 
